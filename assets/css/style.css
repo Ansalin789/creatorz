@@ -25823,7 +25823,7 @@ input[type=password]::-ms-clear {
     }
 
     .footer .footer-widget .footer-logo img {
-        max-height: 40px;
+        max-height: 100px;
     }
 
     #mobile_btn {
